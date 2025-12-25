@@ -1,0 +1,7 @@
+{
+  "name": "Iecc_libreria",
+  "description": "Sistema profesional de gestión de inventario y ventas para librerías con escaneo de ISBN asistido por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
